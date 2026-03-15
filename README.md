@@ -1,1 +1,1 @@
-Simple implementation of gpt 1 and 2, at the moment, can classify sms if it is spam or not
+A streamlined implementation of GPT-1 and GPT-2 architectures, currently optimized for SMS spam classification.
